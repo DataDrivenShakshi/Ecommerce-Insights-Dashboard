@@ -33,7 +33,7 @@ An interactive Power BI dashboard project focused on analyzing e-commerce data. 
 -Customize Layout: Arrange visuals logically, apply consistent formatting, and add slicers for interactivity (e.g., filtering by state, category, month).
 
 ## Dashboard
-![project1](https://github.com/user-attachments/assets/dcf5deaf-fd53-405f-9f03-ee3a761687f9)
+![project1](https://github.com/user-attachments/assets/c8f8bd5d-f6c7-461a-94fa-73ecb31a3461)
 
 ## Project Insight
 -Month: Analyzes trends over time.
