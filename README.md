@@ -1,4 +1,4 @@
-**SHAKSHI ECOMMERCDE SALES DASHBOARD**
+## **SHAKSHI ECOMMERCDE SALES DASHBOARD**
 An interactive Power BI dashboard project focused on analyzing e-commerce data. This project provides insights into sales trends, customer behavior, product performance, and profitability. The dashboard can help businesses make data-driven decisions to enhance sales strategies, customer engagement, and overall profitability.
 
 ## Features
