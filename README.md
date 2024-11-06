@@ -25,7 +25,7 @@ An interactive Power BI dashboard project focused on analyzing e-commerce data. 
   ## Dashboard Interaction
   <a href="https://github.com/DataDrivenShakshi/Ecommerce-Insights-Dashboard/blob/main/project1.png">View Dashboard</a>
 
-  ##Process
+  ## Process
 - Import Data: Load data from sources like Excel, SQL databases, or cloud services into Power BI using built-in connectors.
 -Transform Data: Use Power Query to clean and transform data, such as removing duplicates, handling nulls, and merging tables.
 -Model Data: Define relationships between tables (e.g., customer, product, and sales data) and create measures using DAX for key metrics (total sales, profit, etc.).
