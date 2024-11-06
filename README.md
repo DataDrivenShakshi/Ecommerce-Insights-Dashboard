@@ -27,20 +27,20 @@ An interactive Power BI dashboard project focused on analyzing e-commerce data. 
 
   ## Process
 - Import Data: Load data from sources like Excel, SQL databases, or cloud services into Power BI using built-in connectors.
--Transform Data: Use Power Query to clean and transform data, such as removing duplicates, handling nulls, and merging tables.
--Model Data: Define relationships between tables (e.g., customer, product, and sales data) and create measures using DAX for key metrics (total sales, profit, etc.).
--Create Visuals: Add various visuals (bar charts, line charts, pie charts, KPI cards, etc.) to represent key data points (e.g., monthly sales, top customers, popular categories).
--Customize Layout: Arrange visuals logically, apply consistent formatting, and add slicers for interactivity (e.g., filtering by state, category, month).
+- Transform Data: Use Power Query to clean and transform data, such as removing duplicates, handling nulls, and merging tables.
+- Model Data: Define relationships between tables (e.g., customer, product, and sales data) and create measures using DAX for key metrics (total sales, profit, etc.).
+- Create Visuals: Add various visuals (bar charts, line charts, pie charts, KPI cards, etc.) to represent key data points (e.g., monthly sales, top customers, popular categories).
+- Customize Layout: Arrange visuals logically, apply consistent formatting, and add slicers for interactivity (e.g., filtering by state, category, month).
 
 ## Dashboard
 ![project1](https://github.com/user-attachments/assets/c8f8bd5d-f6c7-461a-94fa-73ecb31a3461)
 
 ## Project Insight
--Month: Analyzes trends over time.
--State: Identifies regional performance.
--Customer: Highlights top customers.
--Payment Mode: Shows the distribution of payments.
--Category & Sub-category: Analyzes product popularity.
+- Month: Analyzes trends over time.
+- State: Identifies regional performance.
+- Customer: Highlights top customers.
+- Payment Mode: Shows the distribution of payments.
+- Category & Sub-category: Analyzes product popularity.
 
 ## Final Conclusion
 The Power BI dashboard effectively streamlines the analysis process by visualizing crucial business metrics, making it easier to identify patterns, track performance, and enhance decision-making. It’s a powerful tool for businesses to monitor their sales and profit dynamics, and with its interactive features, stakeholders can gain valuable insights and take timely actions for optimization.
