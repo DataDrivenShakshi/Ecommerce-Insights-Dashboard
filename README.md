@@ -32,3 +32,8 @@ Filters: Allows data filtering by quarter and state for focused analysis.
 -Create Visuals: Add various visuals (bar charts, line charts, pie charts, KPI cards, etc.) to represent key data points (e.g., monthly sales, top customers, popular categories).
 -Customize Layout: Arrange visuals logically, apply consistent formatting, and add slicers for interactivity (e.g., filtering by state, category, month).
 
+## Dashboard
+![project1](https://github.com/user-attachments/assets/dcf5deaf-fd53-405f-9f03-ee3a761687f9)
+
+
+
